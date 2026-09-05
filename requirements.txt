@@ -1,0 +1,41 @@
+# Core Framework
+fastapi
+uvicorn
+
+# Speech & Audio
+faster-whisper
+sounddevice
+numpy
+pyttsx3
+
+# NLP & API
+requests
+regex
+
+# System & Automation
+psutil
+pyautogui
+subprocess32; sys_platform == 'win32'
+
+# UI & Visualization
+tkinter
+colorama
+
+
+# Utilities
+python-dotenv
+PyYAML
+tqdm
+pillow
+
+# Optional Enhancements
+# For GPU acceleration (if CUDA available)
+torch
+torchvision
+torchaudio
+
+# For Gemini API integration
+google-generativeai
+
+# For logging and monitoring
+rich

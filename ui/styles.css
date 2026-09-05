@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #1e1e2f, #3a3a5f);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.status {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.command {
+    color: #00ffff;
+    font-size: 16px;
+}
+
+.response {
+    color: #90ee90;
+    font-size: 16px;
+}

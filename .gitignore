@@ -1,0 +1,4 @@
+config/__pycache__/
+core/__pycache__/
+integrations/__pycache__/
+ui/__pycache__/
