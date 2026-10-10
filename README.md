@@ -127,7 +127,7 @@ mini_voice_assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<vardhanrajt6-pixel>/mini_voice_assistant.git
+git clone https://github.com/vardhanrajt6-pixel/mini_voice_assistant.git
 cd mini_voice_assistant/jarvis_assistant
 ```
 
